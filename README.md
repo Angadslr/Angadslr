@@ -10,8 +10,7 @@ Welcome to my GitHub! I'm a Computer Science student with 2+ years of experience
 
 ## 🛠️ Technologies & Tools
 
-[![Skills](https://skillicons.dev/icons?i=py,js,ts,java,cpp,cs,html,css,react,nodejs,fastapi,pytorch,sklearn,sqlite,mysql,firebase,aws,azure,docker,kubernetes,linux,git,githubactions,cloudflare,vercel,go&perline=13)](https://skillicons.dev)
-
+[![Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,py,ts,react,nodejs,githubactions,linux,pytorch,fastapi,go,java,cpp,js,mysql,sqlite,firebase,sklearn,git,cloudflare,vercel,cs,html,css&perline=13)](https://skillicons.dev)
 ---
 
 ## 🚀 Featured Projects
