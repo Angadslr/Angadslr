@@ -2,9 +2,9 @@
 
 🌎 **Based in Portland, Oregon** | 🎓 **CS @ Oregon State University (Robot Intelligence, Business minor)**
 
-*Software Engineering | AI Agents & LLMs | Systems | Robotics | Full-Stack | Meta Astryx Contributor*
+*Software Engineering | AI Agents & LLMs | Systems | Robotics | Full-Stack*
 
-Welcome to my GitHub! I'm a Computer Science student with 2+ years of experience building production software, AI services, and real-time systems. I build developer tools, LLM infrastructure, and full-stack apps, and I coordinate the OSU Artificial Intelligence Club. I'm looking for **Software Engineering internships**.
+I'm a Computer Science student with 2+ years of experience building production software, AI services, and real-time systems. I build developer tools, LLM infrastructure, and full-stack apps, and I coordinate the OSU Artificial Intelligence Club. I'm looking for **Software Engineering internships**.
 
 ---
 
