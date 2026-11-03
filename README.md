@@ -2,9 +2,9 @@
 
 🌎 **Based in Portland, Oregon** | 🎓 **CS @ Oregon State University (Robot Intelligence, Business minor)**
 
-*Software Engineering | AI Agents & LLMs | Systems | Robotics | Full-Stack*
+*Software Engineering | AI Agents & LLMs | Systems | Robotics | Full-Stack | Meta Astryx Contributor*
 
-I'm a Computer Science student with 2+ years of experience building production software, AI services, and real-time systems. I build developer tools, LLM infrastructure, and full-stack apps, and I coordinate the OSU Artificial Intelligence Club. I'm looking for **Software Engineering internships**.
+Welcome to my GitHub! I'm a Computer Science student with 2+ years of experience building production software, AI services, and real-time systems. I build developer tools, LLM infrastructure, and full-stack apps, and I coordinate the OSU Artificial Intelligence Club. I'm looking for **Software Engineering internships**.
 
 ---
 
@@ -16,11 +16,14 @@ I'm a Computer Science student with 2+ years of experience building production s
 
 ## 🚀 Featured Projects
 
-- **[SlashToken](https://github.com/Angadslr/Token-Optimizer)**: Multilingual LLM gateway with an MCP server, a 12-stage NLP pipeline, and semantic verification to cut token costs. *Python, FastAPI, MCP, SQLite* · [site](https://slashtoken.vercel.app/)
-- **[Overwatch](https://github.com/Angadslr/Overwatch)**: Native Cursor supervision extension with a fault-tolerant, crash-safe telemetry pipeline. *Go, TypeScript, VS Code Extension API*
-- **Orbit** (DubHacks 2026): Turns photo subjects into constellations mapped onto 119,000+ real stars with SAM 3 segmentation. *React Native, Python, scikit-learn, Firebase*
-- **[DevSnap](https://github.com/Angadslr/devsnap)**: One-command CLI to snapshot and share encrypted dev state with teammates and AI agents. *Python*
-- **[Pact](https://github.com/Angadslr/Pact)** · **[RoleReady](https://github.com/Angadslr/RoleReady)**: Full-stack mobile apps. *Expo, Supabase, FastAPI, Azure Speech*
+| Project | What it does | Stack |
+|---|---|---|
+| 🪙 [**SlashToken**](https://github.com/Angadslr/Token-Optimizer) · [site](https://slashtoken.vercel.app/) | Multilingual LLM gateway that cuts token costs with a verified NLP pipeline | Python · FastAPI · MCP · SQLite |
+| 🛰️ [**Overwatch**](https://github.com/Angadslr/Overwatch) | Cursor extension for supervising AI agents, with crash-safe telemetry | Go · TypeScript · VS Code API |
+| 🌌 [**Orbit**](https://github.com/sid-sundaram11/Dubhacks-2026) | DubHacks 2026: turns photos into constellations mapped onto real stars | React Native · Python · scikit-learn · Firebase |
+| 📸 [**DevSnap**](https://github.com/Angadslr/devsnap) | One-command CLI to snapshot and share encrypted dev state | Python |
+| 🤝 [**Pact**](https://github.com/Angadslr/Pact) | Mobile messenger built on private image codes, with image moderation | Expo · TypeScript · Supabase |
+| 🎙️ [**RoleReady**](https://github.com/Angadslr/RoleReady) | Pronunciation-assessment app for tech professionals | Expo · FastAPI · Azure Speech |
 
 ---
 
