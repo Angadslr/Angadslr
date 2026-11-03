@@ -1,26 +1,51 @@
-# Hi, I'm Angad Srivastava 👋
+# Hi there, I'm Angad Srivastava! 👋
 
-Computer Science student at Oregon State University building **developer tools, LLM infrastructure, and full-stack mobile apps**.
-Looking for **Software Engineering internships for [TERM, e.g. Summer 2027]**.
+🌎 **Based in Portland, Oregon** | 🎓 **CS @ Oregon State University (Robot Intelligence, Business minor)**
 
-## 🔨 Featured projects
-- **[SlashToken](https://github.com/Angadslr/Token-Optimizer)**: Local multilingual prompt gateway that verifies compact rewrites before routing them to LLM APIs to cut token cost. *Python, FastAPI, MCP, SQLite* · [site](https://slashtoken.vercel.app/)
-- **[Overwatch](https://github.com/Angadslr/Overwatch)**: Local observation-only supervision panel for Cursor's AI agents. *TypeScript*
-- **[DevSnap](https://github.com/Angadslr/devsnap)**: One-command CLI to snapshot and share encrypted dev state (.env, SQLite, tunnels) with teammates and AI agents. *Python, age, Cloudflare Tunnel*
-- **[Pact](https://github.com/Angadslr/Pact)**: Mobile messenger built on private image codes, with server-side image moderation. *Expo, TypeScript, Supabase, AWS Rekognition*
-- **[RoleReady](https://github.com/Angadslr/RoleReady)**: Pronunciation-assessment app for tech professionals. *Expo, FastAPI, NVIDIA Parakeet, Azure Speech*
+*Software Engineering | AI Agents & LLMs | Systems | Robotics | Full-Stack | Meta Astryx Contributor*
 
+Welcome to my GitHub! I'm a Computer Science student with 2+ years of experience building production software, AI services, and real-time systems. I build developer tools, LLM infrastructure, and full-stack apps, and I coordinate the OSU Artificial Intelligence Club. I'm looking for **Software Engineering internships**.
 
-## 🏆 Hackathons
-- DubHacks: [Landing Page](https://orbit-landing-two.vercel.app)
-- BeaverHacks 2026: [Landing Page](https://chud-beav-hacks-26.vercel.app)
-- QuackHacks: [Landing Page](https://quackhacks-eta.vercel.app)
+---
 
+## 🛠️ Technologies & Tools
 
-## 🧰 Tech
-**Languages:** Python, TypeScript, JavaScript
-**Frameworks:** FastAPI, React, Expo / React Native
-**Infra & tools:** Supabase, Vercel, SQLite, Git
+[![Skills](https://skillicons.dev/icons?i=py,js,ts,java,cpp,cs,html,css,react,nodejs,fastapi,pytorch,sklearn,sqlite,mysql,firebase,aws,azure,docker,kubernetes,linux,git,githubactions,cloudflare,vercel,go&perline=13)](https://skillicons.dev)
 
-## 📫 Contact
-[LinkedIn]([www.linkedin.com/in/angad-srivastava-bba083388]) · [angadmaserati@gmail.com]
+---
+
+## 🚀 Featured Projects
+
+- **[SlashToken](https://github.com/Angadslr/Token-Optimizer)**: Multilingual LLM gateway with an MCP server, a 12-stage NLP pipeline, and semantic verification to cut token costs. *Python, FastAPI, MCP, SQLite* · [site](https://slashtoken.vercel.app/)
+- **[Overwatch](https://github.com/Angadslr/Overwatch)**: Native Cursor supervision extension with a fault-tolerant, crash-safe telemetry pipeline. *Go, TypeScript, VS Code Extension API*
+- **Orbit** (DubHacks 2026): Turns photo subjects into constellations mapped onto 119,000+ real stars with SAM 3 segmentation. *React Native, Python, scikit-learn, Firebase*
+- **[DevSnap](https://github.com/Angadslr/devsnap)**: One-command CLI to snapshot and share encrypted dev state with teammates and AI agents. *Python*
+- **[Pact](https://github.com/Angadslr/Pact)** · **[RoleReady](https://github.com/Angadslr/RoleReady)**: Full-stack mobile apps. *Expo, Supabase, FastAPI, Azure Speech*
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to collaborating on interesting projects or talking about AI, systems, and robotics. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angad-srivastava-bba083388) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:angadmaserati@gmail.com)
+
+---
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Angad Srivastava"
+        self.role = "Software Engineering Intern | AI, Systems, and Robotics"
+        self.school = "Oregon State University, B.S. Computer Science"
+        self.language_spoken = ["en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+me = SoftwareEngineer()
+me.say_hi()
+```
